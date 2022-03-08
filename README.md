@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LinBeiYi
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning bash linux scripting
+- 🌱 I’m currently learning react and angular
 - 💞️ I’m looking to collaborate on anything that is interesting
 - 📫 How to reach me lbeiyi.0528@gmail.com
 
